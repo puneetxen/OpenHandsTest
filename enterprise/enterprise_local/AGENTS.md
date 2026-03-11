@@ -1,0 +1,18 @@
+# enterprise_local
+
+**Parent**: [enterprise](../AGENTS.md) | **Repository**: OpenHands is a community focused on AI
+
+> Provides essential utilities and documentation for establishing and managing a local development environment for a SAAS application. It includes scripts for converting configuration formats and securely decrypting sensitive environment variables.
+
+## Key Components
+
+*No components detected*
+
+## Folder Overview
+
+## See Also
+
+- [Parent overview →](../AGENTS.md) - Repository-level concepts and architecture
+- [dev_config/ →](../dev_config/AGENTS.md) - Provides development configuration settings for various programming languages and tools. It centralizes definitions for static analysis, code formatting, and quality checks to ensure consistent development practices.
+- [doc/ →](../doc/AGENTS.md) - Provides comprehensive documentation for the OpenHands Enterprise usage telemetry service, detailing its architecture, implementation plan, and phased roadmap.
+- [experiments/ →](../experiments/AGENTS.md) - Provides a comprehensive system for managing and executing various experiment versions, integrating with analytics platforms for configuration and tracking. Contains distinct handlers for different experiment configurations and a central manager for orchestration.

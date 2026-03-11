@@ -1,0 +1,18 @@
+# project-management
+
+**Parent**: [settings](../AGENTS.md) | **Repository**: Welcome to OpenHands, a community focused on
+
+> Implements the user interface and logic for managing various project management integrations within the application. It orchestrates the display of integration options, handles their configuration, and manages their operational status.
+
+## Key Components
+
+*No components detected*
+
+## Folder Overview
+
+## See Also
+
+- [Parent overview →](../AGENTS.md) - Repository-level concepts and architecture
+- [app-settings/ →](../app-settings/AGENTS.md) - Contains user interface components for managing application settings, including a language selection input field and a visual placeholder for loading input elements. Implements interactive elements for configuring application preferences.
+- [git-settings/ →](../git-settings/AGENTS.md) - Provides user interface components and type definitions for configuring Git service authentication settings. It includes help texts and input field properties for Bitbucket, GitHub, and GitLab tokens, along with a GitHub repository configuration initiator.
+- [llm-settings/ →](../llm-settings/AGENTS.md) - Provides user interface components for displaying loading states within the LLM settings section. Contains a React component that renders a visual placeholder structure for input fields, indicating data is being loaded.
